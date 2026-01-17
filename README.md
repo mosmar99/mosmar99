@@ -16,7 +16,6 @@ Currently based in Sweden.
 ### Find me
 - Website: https://mahmutosmanovic.se
 - LinkedIn: https://linkedin.com/in/mahmut-osmanovic
-- GitHub: https://github.com/mosmar99
 
 ### Fun fact
 I’m a drone and radio enthusiast and enjoy working with UAVs, antennas, and RF systems.
