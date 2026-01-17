@@ -17,4 +17,4 @@ Currently based in Sweden.
 - 🔗 LinkedIn: https://linkedin.com/in/mahmut-osmanovic
 
 ### Fun fact
-I’m a drone 🛩️ and radio enthusias 📻.
+I’m a drone 🛩️ and radio enthusiast 📻.
