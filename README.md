@@ -1,7 +1,6 @@
 ## Hi, I’m Mahmut 👋
 
-I’m an AI engineering student with a background in computer engineering.
-I’m interested in intelligent and autonomous systems, especially where software interacts with real-world environments.
+I’m currently in the final year of my Master’s degree in Artificial Intelligence, with a focus on autonomous systems, reinforcement learning, computer vision, and applied AI research. I conducted my undergraduate studies in Computer Engineering.
 
 I enjoy working with:
 - Reinforcement learning and deep learning in applied settings
