@@ -18,3 +18,7 @@ Currently based in Sweden.
 
 ### Fun fact
 I’m a drone and radio enthusiast and enjoy working with UAVs, antennas, and RF systems.
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mosmar99&show_icons=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mosmar99&layout=compact)
+
