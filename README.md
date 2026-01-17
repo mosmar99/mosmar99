@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi, I’m Mahmut 👋
 
-<!--
-**mosmar99/mosmar99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an AI engineering student with a background in computer engineering.
+I’m interested in intelligent and autonomous systems, especially where software interacts with real-world environments.
 
-Here are some ideas to get you started:
+I enjoy working with:
+- Reinforcement learning and deep learning in applied settings
+- Computer vision and perception
+- Autonomous and robotic systems
+- Building and evaluating learning-based systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I care about understanding system behavior, limitations, and trade-offs rather than just optimizing benchmarks.
+
+Currently based in Sweden.
+
+### Find me
+- Website: https://mahmutosmanovic.se
+- LinkedIn: https://linkedin.com/in/mahmut-osmanovic
+- GitHub: https://github.com/mosmar99
+
+### Fun fact
+I’m a drone and radio enthusiast and enjoy working with UAVs, antennas, and RF systems.
