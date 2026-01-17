@@ -8,13 +8,13 @@ I enjoy working with:
 - Autonomous and robotic systems
 - Building and evaluating learning-based systems
 
-I care about understanding system behavior, limitations, and trade-offs rather than just optimizing benchmarks.
+🧩 I care about understanding system behavior, limitations, and trade-offs rather than just optimizing benchmarks.
 
 Currently based in Sweden.
 
 ### Find me
-- Website: https://mahmutosmanovic.se
-- LinkedIn: https://linkedin.com/in/mahmut-osmanovic
+- 🌐 Website: https://mahmutosmanovic.se
+- 🔗 LinkedIn: https://linkedin.com/in/mahmut-osmanovic
 
 ### Fun fact
-I’m a drone and radio enthusias.
+I’m a drone 🛩️ and radio enthusias 📻.
