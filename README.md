@@ -10,11 +10,11 @@ I enjoy working with:
 
 🧩 I care about understanding system behavior, limitations, and trade-offs rather than just optimizing benchmarks.
 
-Currently based in Sweden.
-
 ### Find me
 - 🌐 Website: https://mahmutosmanovic.se
 - 🔗 LinkedIn: https://linkedin.com/in/mahmut-osmanovic
 
 ### Fun fact
 I’m a drone 🛩️ and radio enthusiast 📻.
+
+<img width="36" height="36" alt="image" src="https://github.com/user-attachments/assets/382212ba-ddfb-4d83-a294-4d01d970ef09" />
