@@ -8,8 +8,6 @@ I enjoy working with:
 - Autonomous and robotic systems
 - Building and evaluating learning-based systems
 
-🧩 I care about understanding system behavior, limitations, and trade-offs rather than just optimizing benchmarks.
-
 ### Find me
 - 🌐 Website: https://mahmutosmanovic.se
 - 🔗 LinkedIn: https://linkedin.com/in/mahmut-osmanovic
